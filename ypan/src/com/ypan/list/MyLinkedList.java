@@ -21,6 +21,7 @@ public class MyLinkedList {
 			node.setBefore(last);
 			last=node;
 		}
+		
 		size++;
 	}
 	
