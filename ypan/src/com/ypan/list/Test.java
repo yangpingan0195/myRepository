@@ -3,6 +3,7 @@ package com.ypan.list;
 public class Test {
 	public static void main(String[] args) throws Exception {
 		MyLinkedList list=new MyLinkedList();
+
 		list.addLast("bbb");
 		list.addFirst("aaa");
 		list.addFirst("ccc");
